@@ -7,3 +7,34 @@ body {
 }
 
 
+.clock{
+	font-size: 50px;
+	color: white;
+	align-items: center;
+	display: flex;
+}
+
+#hour{
+	background-color: #0b0707;
+	border-radius: 6px;
+	
+}
+
+#minute{
+	background-color: #0b0707;
+	border-radius: 6px;
+	
+}
+
+#second{
+	background-color: #0b0707;
+	border-radius: 6px;
+	
+}
+
+h1.text-center{
+	color: white;
+font-family: 'Monoton', cursive;
+
+
+}
